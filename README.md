@@ -21,9 +21,9 @@ Ce projet est une application web pour la réservation de chambres d’hôtel, d
 ## Auteur
 
 Ce projet a été réalisé par : 
-    AHMED ALI Oussama
-    CHEBLI Amen-Allah
-    JLEILI Asma
+    AHMED ALI Oussama, 
+    CHEBLI Amen-Allah, 
+    JLEILI Asma et
     TAKTAK Rihem
 
 
